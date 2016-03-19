@@ -1,0 +1,3 @@
+# Football-PK-Minisions
+初学iOS是做的小游戏
+玩家通过调整3块跳板来改变足球的运动轨迹，使足球打中更多的下落的Minisions得分
